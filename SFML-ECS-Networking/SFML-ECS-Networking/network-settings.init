@@ -1,0 +1,3 @@
+port=54000
+max_players=8
+interp_delay=0.1
